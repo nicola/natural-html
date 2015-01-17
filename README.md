@@ -50,5 +50,5 @@ I am thinking of writing a little dataset with some basic use cases
 
 There are many ideas that I have in mind on how to tackle this:
 
-- Image vision and reinforcement learning to see if things are like they are described (the machine tests all the properties out), however this might lead to very bad quality HTML
+- Machine vision and reinforcement learning to see if things are like they are described (the machine tests all the properties out), however this might lead to very bad quality HTML
 - First-order logic or lambda representations that map to HTML. In addition, in we can combine distributional models to understand the meaning of content words
