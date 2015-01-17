@@ -2,7 +2,7 @@
 Writing HTML in Natural Language
 
 ## The idea
-Not everyone can write code, but many can imagine how things should look like. This challenge aims at stimulating interest in researching new ways write HTML using Natural Language.
+Not everyone can write code, but many can imagine how things should look like. This challenge aims at stimulating interest in researching new ways to write HTML using Natural Language.
 
 ## Example
 
