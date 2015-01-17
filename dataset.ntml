@@ -1,0 +1,40 @@
+Start a new page
+Create a new page
+I want to create a new page
+```
+window.innerHTML = "<html> \
+<head>\
+  <title></title>\
+</head>\
+<body>\
+
+</body>\
+</html>"
+```
+
+Create a new div#hello in body
+Create a new div called hello and put it in body
+Put a div named hello in the body
+In body append div#hello
+```
+var hello = document.createElement('div', 'hello');
+var body = document.querySelector('body');
+body.appendChild(hello);
+```
+
+Make #hello red
+```
+check("hello"); // it is a div
+console.log("what should be red? the background? the text?");
+```
+
+Make the text in hella red
+```
+#hella { font-color: red; }
+```
+
+Write "Hello everyone" in #hello
+```
+var hello = document.querySelector("#hello");
+hello.innerText = "Hello everyone";
+```
