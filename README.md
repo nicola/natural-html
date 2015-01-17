@@ -19,7 +19,7 @@ OK
 + </body>
 + </html>
 
-> Name the page, the amazing page
+> Name the page "the amazing page"
 OK
 -   <title></title>
 +   <title>The amazing page</title>
@@ -35,7 +35,7 @@ Ambiguity
 
 + #main { margin: 0 auto; width: 70%; }
 
-> No, make #main fixed
+> No, make #main fixed width
 OK
 - #main { margin: 0 auto; width: 70%; }
 + #main { margin: 0 auto; width: 900px; }
