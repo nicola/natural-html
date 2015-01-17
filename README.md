@@ -42,6 +42,10 @@ OK
 
 ```
 
+## Further ideas
+
+- Combine the ntml chat-box with the developer tools in the browser, enabling **Inspect Element** to select entities we want to describe, even text selection should be enabled.
+
 ## Dataset
 
 I am thinking of writing a little dataset with some basic use cases
